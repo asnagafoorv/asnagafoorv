@@ -1,6 +1,6 @@
 <!-- Welcome to My GitHub Profile! -->
 
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Asna Gafoor
 
 ## 📊 Data Science & Machine Learning Enthusiast
 
@@ -32,9 +32,9 @@ Here are some of the projects I've worked on:
 
 Let's connect and discuss all things data science, machine learning, or anything else! You can reach me on:
 
-- 📧 Email: your@email.com
+- 📧 Email: asnagafoorv@gmail.com
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/asna-gafoor-8b303b1ba)
 
 ## 🌟 Let's Collaborate
 
