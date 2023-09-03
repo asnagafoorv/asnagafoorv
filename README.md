@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 Let's connect and discuss all things data science, machine learning, or anything else! You can reach me on:
 
 - 📧 Email: asnagafoorv@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/asna-gafoor-8b303b1ba)
+- 💼 LinkedIn: https://www.linkedin.com/in/asna-gafoor-8b303b1ba
 
 ## 🌟 Let's Collaborate
 
